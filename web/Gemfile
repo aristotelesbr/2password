@@ -1,0 +1,7 @@
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+
+# [https://rubygems.org/gems/lennarb]
+# Lennarb provides a lightweight yet robust solution for web routing in Ruby, focusing on performance and simplicity.
+gem 'lennarb', '~> 0.1.1'
